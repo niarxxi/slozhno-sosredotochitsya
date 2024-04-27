@@ -323,7 +323,7 @@
   .main {
     gap: 50px;
     margin: 34px 0;
-    padding: 0 10px;
+    padding: 7px 10px;
   }
 
   .section__title {
@@ -429,6 +429,7 @@
   position: relative;
   padding: 282px 20px;
   text-align: center;
+  height: 100vh;
 }
 
 .footer__title {
@@ -450,8 +451,8 @@
   }
 
   .footer {
-    margin-top: 40px;
-    padding: 262px 10px;
+    margin-top: 35px;
+    padding: 257px 10px;
   }
 }
 
