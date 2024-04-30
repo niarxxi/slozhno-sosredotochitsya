@@ -19,4 +19,5 @@
   --rec-color: var(--accent-color);
   --article-title-color: var(--bg-color);
   --text-shadow: #ff0070;
+  background-color: var(--bg-color);
 }
