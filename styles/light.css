@@ -16,7 +16,7 @@
   --bg-cover-image: url(../images/cover-image-light.png);
   --title-decor: #ff8dcb;
   --text-shadow: #ff0070;
-  --article-title-color: var(--bg-color);
+  --article-title-color: var(--accent-color);
 }
 
 .page.theme_light .header__rec-icon {
@@ -33,7 +33,7 @@
     --bg-cover-image: url(../images/cover-image-light.png);
     --title-decor: #ff8dcb;
     --text-shadow: #ff0070;
-    --article-title-color: var(--bg-color);
+    --article-title-color: var(--accent-color);
   }  
   .header__rec-icon {
     display: none;
