@@ -17,10 +17,7 @@
   --title-decor: #ff8dcb;
   --text-shadow: #ff8dcb;
   --article-title-color: var(--accent-color);
-}
-
-.page.theme_light .header__rec-icon {
-  display: none;
+  --rec-color: transparent;
 }
 
 @media (prefers-color-scheme: light) {
@@ -34,8 +31,6 @@
     --title-decor: #ff8dcb;
     --text-shadow: #ff8dcb;
     --article-title-color: var(--accent-color);
-  }  
-  .header__rec-icon {
-    display: none;
+    --rec-color:transparent;
   }
 }

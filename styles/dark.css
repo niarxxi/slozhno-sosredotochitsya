@@ -20,3 +20,18 @@
   --article-title-color: var(--bg-color);
   --text-shadow: #ff0070;
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #f1b2ce;
+    --accent-title-color: #db00ff;
+    --accent-color: #ff0070;
+    --hover-color: rgba(255, 0, 112, 0.4);
+    --bg-color: #000028;
+    --bg-cover-image: url(../images/cover-image-dark.png);
+    --title-decor: #ff0070;
+    --rec-color: var(--accent-color);
+    --article-title-color: var(--bg-color);
+    --text-shadow: #ff0070;
+  }
+}
